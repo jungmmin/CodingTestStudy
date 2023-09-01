@@ -13,7 +13,8 @@ import java.util.StringTokenizer;
  */
 public class 바구니뒤집기 {
     public static void main(String args[]) throws IOException {
-        // while(startIndex < endIndex) 로 하고startIndex는 ++ endIndex는 -- 로 하는것이 더 깔끔해보임
+        // while(startIndex < endIndex) 로
+        // 하고startIndex는 ++ endIndex는 -- 로 하는것이 더 깔끔해보임
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
