@@ -3,7 +3,7 @@ package 코딩테스트대비;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class P_3_문장속단어 {
+public class P3_문장속단어 {
     public static void main(String args[]) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
