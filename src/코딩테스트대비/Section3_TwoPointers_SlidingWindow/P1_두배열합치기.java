@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class 두배열합치기 {
+public class P1_두배열합치기 {
     public static void main(String args[]) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
