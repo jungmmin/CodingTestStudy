@@ -8,8 +8,8 @@ public class P9_숫자만추출 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        String s = br.readLine().replaceAll("[^\\d]","");
-        bw.write(Integer.parseInt(s));
+        String s = br.readLine().replaceAll("[^0-9]","");
+        bw.write(String.valueOf(Integer.parseInt(s)));
         bw.close();
     }
 }
