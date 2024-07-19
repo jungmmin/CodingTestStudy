@@ -1,4 +1,4 @@
-package 백준_알고리즘별.dynamic_programming;
+package 백준_알고리즘별.dynamic_programming.bronze;
 
 import java.io.*;
 
